@@ -1,5 +1,7 @@
 # 🌌 Orrery: The Cosmos in Your Browser
 
+https://meeseeks-mr.github.io/Orrery/
+
 Welcome to **Orrery**! If you've ever found yourself staring at the sky wondering *why* the Moon looks like a chewed-up fingernail today, or exactly *how* Earth's wobbly tilt gives us both summer beach days and winter snowstorms, you're in the right place. 
 
 This isn't just a spinning globe; it's an interactive, 3D educational playground that brings the intricate, high-stakes orbital dance of the Earth, Moon, and Sun right to your screen. No telescope required!
@@ -41,3 +43,5 @@ Jump into the **Sky Dome (Surface View)** camera mode. You are now standing on t
 - **Data-Rich Layers:** Toggle orbits, latitudes, months, perihelion/aphelion markers, and more. 
 
 Dive in, mess with time, and don't worry—you can't break the universe here. Happy exploring! 🌠
+
+Made with Love by dio.stesso. Because Why Not.
